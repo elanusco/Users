@@ -1,1 +1,9 @@
-
+{
+    "name": "elanusco/users",
+    "type": "project",
+    "description": "Elanus Users Module",
+    "keywords": [
+        "module"
+    ],
+    "license": "MIT"
+}
